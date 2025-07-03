@@ -49,4 +49,38 @@ aws_route53_zone
 aws_route53_record
 aws_kms_key
 
+## aws data source types
+
+aws_ami
+aws_ami_ids
+
+aws_ec2_instance_type_offerings
+aws_instances
+
+aws_vpc
+aws_vpcs
+
+aws_subnet_ids
+aws_subnet
+
+aws_security_group
+
+aws_iam_role
+aws_iam_roles
+aws_iam_user
+aws_iam_users
+
+aws_s3_bucket
+aws_s3_buckets
+
+aws_db_instance
+aws_db_instances
+
+aws_eks_cluster
+
+aws_availability_zones
+aws_availability_zone
+aws_region
+aws_caller_identity
+
 
