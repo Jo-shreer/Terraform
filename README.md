@@ -3,8 +3,11 @@
 ## Aws resource type
 
 aws_instance
+
 aws_ami_copy
+
 aws_ami_from_instance
+
 aws_ami
 
 aws_autoscaling_group
